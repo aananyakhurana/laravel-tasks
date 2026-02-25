@@ -57,4 +57,4 @@ jobs:
           app-name: 'aananya-php-lab-01'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DB0846A388D48719C1412DC134A1623 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8174558E47DB4355A32E3BB8D5CEB210 }}
